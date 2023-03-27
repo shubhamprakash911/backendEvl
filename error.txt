@@ -1,0 +1,5 @@
+{"level":"error","message":{"error":"data and salt arguments required"}}
+{"level":"error","message":{"error":"data and salt arguments required"}}
+{"level":"error","message":{"error":"data and salt arguments required"}}
+{"level":"error","message":{"error":"data and salt arguments required"}}
+{"level":"error","message":{"error":"Invalid salt. Salt must be in the form of: $Vers$log2(NumRounds)$saltvalue"}}
